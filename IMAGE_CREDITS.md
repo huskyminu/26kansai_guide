@@ -7,7 +7,7 @@
 | 신사이바시 | [Shinsaibashi-suji 201408.JPG](https://commons.wikimedia.org/wiki/File:Shinsaibashi-suji_201408.JPG) | CC BY-SA 4.0 |
 | 도톤보리 운하 | [A view of Dotonbori canal, Osaka.jpg](https://commons.wikimedia.org/wiki/File:A_view_of_Dotonbori_canal,_Osaka.jpg) | CC BY-SA 4.0 |
 | 청수사 | [Kiyomizu-dera, Kyoto, November 2016 -01.jpg](https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-01.jpg) | CC BY-SA 4.0 |
-| 니넨자카 | [Gion - Nineizaka (Ninenzaka), Kyoto, Japan (48923269328).jpg](https://commons.wikimedia.org/wiki/File:Gion_-_Nineizaka_(Ninenzaka),_Kyoto,_Japan_(48923269328).jpg) | CC BY-SA 2.0 |
+| 산넨자카·니넨자카 | [Sanneizaka (Sannenzaka) near Kiyomizudera Temple 5.JPG](https://commons.wikimedia.org/wiki/File:Sanneizaka_(Sannenzaka)_near_Kiyomizudera_Temple_5.JPG) | CC BY-SA 3.0 |
 | 아베노하루카스 | [Illuminated Tennōji Park and Abeno Harukas, November 2015, Osaka.jpg](https://commons.wikimedia.org/wiki/File:Illuminated_Tenn%C5%8Dji_Park_and_Abeno_Harukas,_November_2015,_Osaka.jpg) | CC BY-SA 4.0 |
 | 난바 | [150328 Namba Parks Osaka Japan01bs3.jpg](https://commons.wikimedia.org/wiki/File:150328_Namba_Parks_Osaka_Japan01bs3.jpg) | CC BY 2.5 |
 | 덴덴타운 | [Den-Den Town, Nipponbashi, Osaka - Jul 12, 2023.jpg](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg) | CC BY 2.0 |
