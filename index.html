@@ -67,6 +67,17 @@
   </main>
   <footer><div class="wrap"><p>2026 간사이 가족여행 · Master Plan v3.3 · 운영시간과 교통은 출발 전 공식 자료로 재확인하세요.</p><a class="top" href="#top">맨 위로 ↑</a></div></footer>
   <script>
+    const localPhotoByAlt={
+      '신사이바시 상점가':'images/shinsaibashi.jpg',
+      '도톤보리 운하':'images/dotonbori.jpg',
+      '교토 청수사':'images/kiyomizu.jpg',
+      '니넨자카 전통 거리':'images/ninenzaka.jpg',
+      '아베노하루카스':'images/harukas.jpg',
+      '오사카 난바':'images/namba.jpg',
+      '덴덴타운':'images/dendentown.jpg',
+      '간사이국제공항':'images/kix.jpg'
+    };
+    document.querySelectorAll('img[alt]').forEach(img=>{if(localPhotoByAlt[img.alt])img.src=localPhotoByAlt[img.alt]});
     const form=document.querySelector('#feedbackForm'),toast=document.querySelector('#toast');
     function feedbackText(){return `[간사이 가족여행 의견]\n작성자: ${document.querySelector('#name').value||'가족'}\n기대 일정: ${document.querySelector('#choice').value}\n의견: ${document.querySelector('#comment').value||'-'}`}
     async function copy(){try{await navigator.clipboard.writeText(feedbackText());toast.textContent='의견을 복사했습니다. 가족 채팅방에 붙여넣어 주세요.'}catch{toast.textContent='복사하지 못했습니다. 내용을 직접 선택해 주세요.'}}
