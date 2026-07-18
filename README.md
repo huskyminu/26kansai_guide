@@ -2,6 +2,10 @@
 
 마스터 문서 v3.3을 기준으로 제작한 GitHub Pages용 정적 여행 안내 사이트입니다.
 
+## 공개 사이트
+
+- https://huskyminu.github.io/26kansai_guide/
+
 ## 구성
 
 - 2026년 7월 28일~31일 요일별 일정
